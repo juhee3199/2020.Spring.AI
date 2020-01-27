@@ -6,6 +6,10 @@
 - 실습-라이브러리: PyTorch, Sklearn, OpenCV, Pandas 등
 - 실습-툴: Colab + Kaggle
 
+### 참고
+- 2019년도 인공지능 수업
+  - https://github.com/sejongresearch/2019.Spring.AI
+
 
 ### 커리큘럼
 
