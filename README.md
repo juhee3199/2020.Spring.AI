@@ -9,10 +9,12 @@
 ### 참고
 - 2019년도 인공지능 수업
   - https://github.com/sejongresearch/2019.Spring.AI
+- 2019년도 기계학습 수업
+  - https://github.com/sejongresearch/2019.Fall.PatternRecognition
 
+### 
 
 ### 커리큘럼
-
 - [1-1] 수업 개요
   - 소프트웨어 1.0 vs 소프트웨어 2.0
   - 수업용 깃허브 설명, 프로젝트 용 깃허브 설명
@@ -47,6 +49,7 @@
   - 데이터 시각화의 중요성
   - Kaggle, Dacon의 실전 문제의 데이터를 시각화 하여 분석 후 Teachable AI 사용 가능?
   - Pandas cheatsheet으로 알아보는 실습
+    - https://github.com/corazzon/cracking-the-pandas-cheat-sheet
 - [4-2] 데이터 시각화와 Pandas
   - Pandas cheatsheet으로 알아보는 실습
   - 캐글 + 판단스의 만남 (과제3) 
