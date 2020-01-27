@@ -5,6 +5,7 @@
 - 실습프로그램언어: Python
 - 실습-라이브러리: PyTorch, Sklearn, OpenCV, Pandas 등
 - 실습-툴: Colab + Kaggle
+- 파이썬 온라인 강좌 인증 관련: 머신러닝을 위한 Python - Pythonic Code, Linear Algebra, 과제, 퀴즈1 까지 인증
 
 ### 참고
 - 2019년도 인공지능 수업
