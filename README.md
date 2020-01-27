@@ -21,7 +21,7 @@
 | 2 | 모두를위한 인공지능 <br> 전공자를 위한 인공지능 |  | | Teachable Machine <br> with Google | [융합형인재란](https://youtu.be/srp8defXNNI)|
 | 3 | 인공지능을 위한 <br> 기초수학 |  |  | | [인공지능시대 리더상](https://youtu.be/jSRiq9VBlt8)|
 | 4 | 데이터 시각화와 Pandas |  |  | Kaggle with Pandas| [포토사피엔스](https://youtu.be/VULRSpF49Yk) |
-| 과제 | Mini-Project with Teachable AI  |  |  | 결과물+보고서 |  | 
+| 과제 | Mini-Project with <br> Teachable AI  |  |  | 결과물+보고서 |  | 
 | 5-1 | 선형 회귀 | [강의자료](https://www.dropbox.com/s/ttmeq70bgqttkj8/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_7%EC%9D%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85.pdf?dl=0) |  | ||
 | 5-2 | 선형 회귀 | [실습자료](https://colab.research.google.com/drive/1zf0keTCZ1UQBc030CkJk6S6xHaSlVvgH) |  | | [융합형인재 CaseStudy](https://youtu.be/oGHZ_0wT_PE)|
 | 과제 |  배추값 예측 하기  |  |  |  |  | 
