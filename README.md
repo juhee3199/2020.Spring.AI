@@ -24,10 +24,10 @@
 | 과제 | Mini-Project with Teachable AI  |  |  | 결과물+보고서 |  | 
 | 5-1 | 선형 회귀 | [강의자료](https://www.dropbox.com/s/ttmeq70bgqttkj8/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_7%EC%9D%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85.pdf?dl=0) |  | ||
 | 5-2 | 선형 회귀 | [실습자료](https://colab.research.google.com/drive/1zf0keTCZ1UQBc030CkJk6S6xHaSlVvgH) |  | | [융합형인재 CaseStudy](https://youtu.be/oGHZ_0wT_PE)|
-| 과제 |  Regression Problem: 배추값 예측 하기  |  |  |  |  | 
+| 과제 |  배추값 예측 하기  |  |  |  |  | 
 | 6-1 | 선형 분류 | [강의자료](https://www.dropbox.com/s/6fuqi8j60dkrara/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_9%EC%9D%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85.pdf?dl=0) |  | | |
 | 6-2 | 선형 분류 | [실습자료](https://github.com/unizard/2019.Spring.AI/issues/34) |  | | [인공지능과 마케팅](https://youtu.be/vXTaU0SPBOM)|
-| 과제 |  Classification Problem: 당뇨병환자 분류하기  |  |  |  |  | 
+| 과제 |  당뇨병 환자 분류하기  |  |  |  |  | 
 | 6-1 | 선형 분류 | [강의자료](https://www.dropbox.com/s/6fuqi8j60dkrara/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_9%EC%9D%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85.pdf?dl=0) |  | | |
 | 7 | 중간고사 |   |    |  ||
 | 8 | 텀프로젝트 설명회 |   |    |  | [데이터로 변화하는 세상](https://youtu.be/NFt1MbChFMU) |
