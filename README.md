@@ -10,6 +10,14 @@
 - [이수증 제출 마감] 3/10, 조교이메일
 - [강의] [모두를위한프로그램: 파이썬](https://www.edwith.org/pythonforeverybody), [파이썬 자료구조](https://www.edwith.org/python-data/)
 
+
+## 참고자료
+- [파이토치로 시작하는 딥러닝 기초](https://www.edwith.org/boostcourse-dl-pytorch/lecture/42282/)
+- [텐서플로우로 시작하는 딥러닝 기초](https://www.edwith.org/boostcourse-dl-tensorflow)
+- [Kaggle 실습으로 배우는 데이터 사이언스](https://www.edwith.org/boostcourse-ds-kaggle/joinLectures/28015)
+- [인공지능을 위한 선형대수](https://www.edwith.org/linearalgebra4ai)
+- [확률론 기초: Statistics 110](https://www.edwith.org/harvardprobability/joinLectures/17924)
+
 ## 강의계획서
 - 수업시간: 월화 12:00-13:30
 - 강의실: 센B108
