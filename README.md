@@ -7,9 +7,8 @@
 - 실습 이외 컴퓨터 사용 불가 (강의자료 PC사용 금지)
 
 ## 파이썬 이수증 
-- [이수증 마감] 3/10
-- [모두를위한프로그램: 파이썬](https://www.edwith.org/pythonforeverybody)
-- [파이썬 자료구조](https://www.edwith.org/python-data/)
+- [이수증 제출 마감] 3/10, 조교이메일
+- [강의] [모두를위한프로그램: 파이썬](https://www.edwith.org/pythonforeverybody), [파이썬 자료구조](https://www.edwith.org/python-data/)
 
 ## 강의계획서
 - 수업시간: 월화 12:00-13:30
