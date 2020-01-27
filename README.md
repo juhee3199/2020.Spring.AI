@@ -5,7 +5,11 @@
 - 수업 이외 질의응답: github issues 사용
 - 수업 참석 전 Video 시청 후 감상문 제출 (분량 제한 없음)
 - 실습 이외 컴퓨터 사용 불가 (강의자료 PC사용 금지)
-- 2주차 끝나는 3/10 파이썬 온라인 강의 이수 완료 인증
+
+## 파이썬 이수증 
+- [이수증 마감] 3/10
+- [모두를위한프로그램: 파이썬](https://www.edwith.org/pythonforeverybody)
+- [파이썬 자료구조](https://www.edwith.org/python-data/)
 
 ## 강의계획서
 - 수업시간: 월화 12:00-13:30
@@ -13,9 +17,9 @@
 
 | week | Cource Contents | LectureNote | Date |  Etc | Video | 
 |:---:|:---:|:---:|:---:|:---:|:---:| 
-| 1 | 인공지능 개요 |  | | | [software 2.0](https://youtu.be/mqaATsYP6j0)|
+| 1 | 인공지능 개요 |  | | 범용SW vs 인공지능SW | [software 2.0](https://youtu.be/mqaATsYP6j0)|
 | 2 | 모두를위한 인공지능 <br> 전공자를 위한 인공지능 |  | | Teachable Machine <br> with Google | [융합형인재란](https://youtu.be/srp8defXNNI)|
-| 3 | 인공지능을 위한 <br> 기초수학 |  |  || [인공지능시대 리더상](https://youtu.be/jSRiq9VBlt8)|
+| 3 | 인공지능을 위한 <br> 기초수학 |  |  | | [인공지능시대 리더상](https://youtu.be/jSRiq9VBlt8)|
 | 4 | 데이터 시각화와 Pandas |  |  || [포토사피엔스](https://youtu.be/VULRSpF49Yk) |
 | 5-1 | 선형 회귀 | [강의자료](https://www.dropbox.com/s/ttmeq70bgqttkj8/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_7%EC%9D%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85.pdf?dl=0) |  | ||
 | 5-2 | 선형 회귀 | [실습자료](https://colab.research.google.com/drive/1zf0keTCZ1UQBc030CkJk6S6xHaSlVvgH) |  | | [융합형인재 CaseStudy](https://youtu.be/oGHZ_0wT_PE)|
