@@ -69,6 +69,16 @@
 - [16-1] 텀프로젝트 리더보드 마감
 - [16-2] 텀프로젝트 보고서 마감
 
+### 텀 프로젝트 관련
+- 논문 구현
+  - 1) Caltech 101 Classification with Deep Learning
+    - Pytorch 를 통해 직접 구현, Pretrained Model 사용 허용
+    - 기본점수 및 가산점 가이드 라인은 수업 중 공개
+  - 2) ImageNet Classification with Deep Convolutional Neural Networks, NIPS2012
+    - Pytorch 를 통해 직접 구현, Pretrained Model 사용 허용
+    - 기본점수 및 가산점 가이드 라인은 수업 중 공개
+
+
 
 
 
