@@ -3,6 +3,7 @@
 ## 수업정보
 - 수업 중 질의응답: slido 사용
 - 수업 이외 질의응답: github issues 사용
+- 수업 참석 전 Video 시청 후 감상문 제출 (분량 제한 없음)
 
 
 ## 강의계획서
@@ -11,16 +12,16 @@
 
 | week | Cource Contents | LectureNote | Date |  Etc | Video | 
 |:---:|:---:|:---:|:---:|:---:|:---:| 
-| 1 | 인공지능 개요 |  | | ||
-| 2 | 모두를위한 인공지능 <br> 전공자를 위한 인공지능 |  | | ||
-| 3 | 인공지능을 위한 <br> 기초수학 |  |  |||
-| 4 | 데이터 시각화와 Pandas |  |  |||
+| 1 | 인공지능 개요 |  | | | [software 2.0](https://youtu.be/mqaATsYP6j0)|
+| 2 | 모두를위한 인공지능 <br> 전공자를 위한 인공지능 |  | | | [융합형인재란](https://youtu.be/srp8defXNNI)|
+| 3 | 인공지능을 위한 <br> 기초수학 |  |  || [인공지능시대 리더상](https://youtu.be/jSRiq9VBlt8)|
+| 4 | 데이터 시각화와 Pandas |  |  || [포토사피엔스](https://youtu.be/VULRSpF49Yk) |
 | 5-1 | 선형 회귀 | [강의자료](https://www.dropbox.com/s/ttmeq70bgqttkj8/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_7%EC%9D%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85.pdf?dl=0) |  | ||
-| 5-2 | 선형 회귀 | [실습자료](https://colab.research.google.com/drive/1zf0keTCZ1UQBc030CkJk6S6xHaSlVvgH) |  | ||
-| 6-1 | 선형 분류 | [강의자료](https://www.dropbox.com/s/6fuqi8j60dkrara/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_9%EC%9D%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85.pdf?dl=0) |  | ||
-| 6-2 | 선형 분류 | [실습자료](https://github.com/unizard/2019.Spring.AI/issues/34) |  | ||
+| 5-2 | 선형 회귀 | [실습자료](https://colab.research.google.com/drive/1zf0keTCZ1UQBc030CkJk6S6xHaSlVvgH) |  | | [융합형인재 CaseStudy](https://youtu.be/oGHZ_0wT_PE)|
+| 6-1 | 선형 분류 | [강의자료](https://www.dropbox.com/s/6fuqi8j60dkrara/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_9%EC%9D%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85.pdf?dl=0) |  | | |
+| 6-2 | 선형 분류 | [실습자료](https://github.com/unizard/2019.Spring.AI/issues/34) |  | | [인공지능과 마케팅](https://youtu.be/vXTaU0SPBOM)|
 | 7 | 중간고사 |   |    |  ||
-| 8 | 텀프로젝트 설명회 |   |    |  ||
+| 8 | 텀프로젝트 설명회 |   |    |  | [데이터로 변화하는 세상](https://youtu.be/NFt1MbChFMU) |
 | 9-1 | 뉴럴네트워크 | [강의자료](https://www.dropbox.com/s/umw3xfyw5rkumgr/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_10%EC%9D%BC%EC%B0%A8.pdf?dl=0) |  | ||
 | 9-2 | 뉴럴네트워크 | [실습자료](https://colab.research.google.com/drive/17470VwWXaP90eobg_6OKVnWbSWpGhtqT) |  | ||
 | 10-1 | 뉴럴네트워크 | [강의자료](https://www.dropbox.com/s/jyv34y8tg2c6zco/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-11%EC%9D%BC%EC%B0%A8.pptx?dl=0) |  | ||
