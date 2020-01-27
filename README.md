@@ -29,7 +29,7 @@
 | 6-2 | 선형 분류 | [실습자료](https://github.com/unizard/2019.Spring.AI/issues/34) |  | | [인공지능과 마케팅](https://youtu.be/vXTaU0SPBOM)|
 | 과제 |  당뇨병 환자 분류하기  |  |  |  |  | 
 | 7 | 중간고사 |   |    | 이론+실습 ||
-| 8 | 텀프로젝트 |   |    |  | [데이터로 변화하는 세상](https://youtu.be/NFt1MbChFMU) |
+| 8 | 텀프로젝트 |   |    | Kaggle | [데이터로 변화하는 세상](https://youtu.be/NFt1MbChFMU) |
 | 9-1 | 뉴럴네트워크 | [강의자료](https://www.dropbox.com/s/umw3xfyw5rkumgr/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_10%EC%9D%BC%EC%B0%A8.pdf?dl=0) |  | ||
 | 9-2 | 뉴럴네트워크 | [실습자료](https://colab.research.google.com/drive/17470VwWXaP90eobg_6OKVnWbSWpGhtqT) |  | ||
 | 10-1 | 뉴럴네트워크 | [강의자료](https://www.dropbox.com/s/jyv34y8tg2c6zco/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-11%EC%9D%BC%EC%B0%A8.pptx?dl=0) |  | ||
