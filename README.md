@@ -1,5 +1,6 @@
 
 ### 수업 관련
+- 월화 12:00-13:30, 센B108
 - 수업방식: 이론과 실습
 - 실습프로그램언어: Python
 - 실습-라이브러리: PyTorch, Sklearn, OpenCV, Pandas 등
@@ -45,6 +46,13 @@
   - Pandas cheatsheet으로 알아보는 실습
   - 캐글 + 판단스의 만남 (과제3) 
     - https://programmers.co.kr/learn/courses/21/lessons/1693#
+- [5-1] 선형 회귀
+- [5-2] 선형 회귀
+- [6-1] 선형 분류
+- [6-2] 선형 분류
+- []
+
+
     
 
 
