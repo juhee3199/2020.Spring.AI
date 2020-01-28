@@ -23,7 +23,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:| 
 | 1 | 인공지능 개요 |  | | 범용SW vs 인공지능SW | [software 2.0](https://youtu.be/mqaATsYP6j0)|
 | 2 | 모두를위한 인공지능 <br> 전공자를 위한 인공지능 |  | | Teachable Machine <br> with Google | [모두를위한 인공지능](https://youtu.be/BKj3fnPSUIQ) |
-| 3 | 인공지능을 위한 <br> 기초수학 |  |  |[융합형인재란](https://youtu.be/srp8defXNNI) | 
+| 3 | 인공지능을 위한 <br> 기초수학 |  |  | | [융합형인재란](https://youtu.be/srp8defXNNI) | 
 | 4 | 데이터 시각화와 Pandas |  |  | Kaggle with Pandas|  [인공지능시대 리더상](https://youtu.be/jSRiq9VBlt8)| |
 | 과제 | Mini-Project with <br> Teachable AI  |  |  | 결과물+보고서 |  | 
 | 5-1 | 선형 회귀 | [강의자료](https://www.dropbox.com/s/ttmeq70bgqttkj8/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_7%EC%9D%BC%EC%B0%A8_%EC%B5%9C%EC%A2%85.pdf?dl=0) |  | ||
