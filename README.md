@@ -22,6 +22,7 @@
 | week | Cource Contents | LectureNote | Date |  Etc | Video | 
 |:---:|:---:|:---:|:---:|:---:|:---:| 
 | 1 | 인공지능 개요 | [PPT-0316](https://github.com/sejongresearch/2020.Spring.AI/blob/master/LectureNote/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_%E1%84%8B%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB.pdf), [PPT-0317](https://github.com/sejongresearch/2020.Spring.AI/blob/master/LectureNote/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2.pdf) | 2020.03.16 |  |  |
+| 2 | 인공지능 개요 | [PPT](https://github.com/sejongresearch/2020.Spring.AI/blob/master/LectureNote/2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1-%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD.pdf) | |  |  |
 | 2 | 모두를위한 인공지능 <br> 전공자를 위한 인공지능 |  | | Teachable Machine <br> with Google |  |
 | 3 | 인공지능을 위한 <br> 기초수학 |  |  | | [융합형인재란](https://youtu.be/srp8defXNNI) | 
 | 4 | 데이터 시각화와 Pandas |  |  | Kaggle with Pandas|  [인공지능시대 리더상](https://youtu.be/jSRiq9VBlt8)| |
