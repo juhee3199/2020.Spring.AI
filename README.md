@@ -8,7 +8,7 @@
 - 수업 용 구글 계정 생성 필수: Colab + Google Drive
 
 ## 파이썬 이수증 
-- [이수증 제출 마감] 3/10, 조교이메일
+- [이수증 제출 마감] 3/29, 조교이메일
 - [강의] [모두를위한프로그램: 파이썬](https://www.edwith.org/pythonforeverybody), [파이썬 자료구조](https://www.edwith.org/python-data/)
 
 
