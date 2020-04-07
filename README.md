@@ -1,10 +1,9 @@
 
 
 ## 수업정보
-- 수업 중 질의응답: slido 사용
-- 수업 이외 질의응답: github issues 사용
+- 질의응답: slack 사용
+- 수업 이외 질의응답: github issues 혹은 slack 사용
 - 수업 참석 전 Video 시청 후 감상문 제출 (분량 제한 없음)
-- 실습 이외 컴퓨터 사용 불가 (강의자료 PC사용 금지)
 - 수업 용 구글 계정 생성 필수: Colab + Google Drive
 
 ## 파이썬 이수증 
