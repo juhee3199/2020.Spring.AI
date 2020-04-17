@@ -28,10 +28,10 @@
 | 과제 | Mini-Project with <br> Teachable AI  |  | 2020.04.12 | 결과물+보고서 |  | 
 | 5 | 선형 회귀 | [강의자료](https://github.com/sejongresearch/2020.Spring.AI/blob/master/LectureNote/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_%E1%84%89%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1_v2.pdf) |  | |  |
 | 5 | 선형 회귀 | [실습1](https://colab.research.google.com/drive/1gy-KIJzy_97AmCqeA01nFfh5zIf1PCUS), [실습2](https://colab.research.google.com/drive/1hKxtayf2bOsSPjIeajFlB9uh_v1Eb4wm), [실습3](https://colab.research.google.com/drive/1T3L1mMZrlyWVovWemiL4rM52sQlgmlvY) |  | Colab for AI| |
-| 5 | 데이터 시각화와 Pandas |  |  | Kaggle with Pandas|  [인공지능시대 리더상](https://youtu.be/jSRiq9VBlt8)| |
+| 6 | 선형 분류 | [강의자료](https://github.com/sejongresearch/2020.Spring.AI/blob/master/LectureNote/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_%E1%84%89%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2_%E1%84%91%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5.pdf) |  | | [융합형인재 CaseStudy](https://youtu.be/oGHZ_0wT_PE) |
+| 6 | 선형 분류 | [실습자료](https://github.com/unizard/2019.Spring.AI/issues/34) |  | |  |
+| 6 | 데이터 시각화와 Pandas |  |  | Kaggle with Pandas|  [인공지능시대 리더상](https://youtu.be/jSRiq9VBlt8)| |
 | 과제 |  배추값 예측 하기  |  |  |  |  | 
-| 6-1 | 선형 분류 | [강의자료](https://github.com/sejongresearch/2020.Spring.AI/blob/master/LectureNote/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_%E1%84%89%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2_%E1%84%91%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5.pdf) |  | | [융합형인재 CaseStudy](https://youtu.be/oGHZ_0wT_PE) |
-| 6-2 | 선형 분류 | [실습자료](https://github.com/unizard/2019.Spring.AI/issues/34) |  | |  |
 | 과제 |  당뇨병 환자 분류하기  |  |  |  |  | 
 | 7 | 중간고사 |   |    | 이론+실습 ||
 | 8 | 텀프로젝트 |   |    | How to use Kaggle |  |
