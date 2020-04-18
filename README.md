@@ -28,25 +28,23 @@
 | 과제 | Mini-Project with <br> Teachable AI  |  | 2020.04.12 | 결과물+보고서 |  | 
 | 5 | 선형 회귀 | [강의자료](https://github.com/sejongresearch/2020.Spring.AI/blob/master/LectureNote/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_%E1%84%89%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1_v2.pdf) |  | |  |
 | 5 | 선형 회귀 | [실습1](https://colab.research.google.com/drive/1gy-KIJzy_97AmCqeA01nFfh5zIf1PCUS), [실습2](https://colab.research.google.com/drive/1hKxtayf2bOsSPjIeajFlB9uh_v1Eb4wm), [실습3](https://colab.research.google.com/drive/1T3L1mMZrlyWVovWemiL4rM52sQlgmlvY) |  | | |
-| 5 | Colab for AI |  |  | How to use Colab  |  | 
 | 6 | 선형 분류 | [강의자료](https://github.com/sejongresearch/2020.Spring.AI/blob/master/LectureNote/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_%E1%84%89%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2_%E1%84%91%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5.pdf) |  | | [융합형인재 CaseStudy](https://youtu.be/oGHZ_0wT_PE) |
 | 6 | 선형 분류 | [실습1](https://colab.research.google.com/drive/1-sb83pb1nKPOBrRCCPJfwyjFbK1TgfWs), [실습2](https://colab.research.google.com/drive/1YBiNPvZ_aPNH4QQwtN2N1DDPSY9POUht) |  | |  |
-| 6 | 데이터 시각화와 Pandas |  |  | How to use Pandas|  [인공지능시대 리더상](https://youtu.be/jSRiq9VBlt8)| |
-| 과제 |  배추값 예측 하기  |  |  |  |  | 
-| 과제 |  당뇨병 환자 분류하기  |  |  |  |  | 
-| 7 | 중간고사 |   |    | 이론+실습 ||
-| 8 | 텀프로젝트 |   |    | How to use Kaggle |  |
-| 9-1 | 뉴럴네트워크 | [강의자료](https://www.dropbox.com/s/umw3xfyw5rkumgr/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_10%EC%9D%BC%EC%B0%A8.pdf?dl=0) |  | | [인공지능과 마케팅](https://youtu.be/vXTaU0SPBOM)|
-| 9-2 | 뉴럴네트워크 | [실습자료](https://colab.research.google.com/drive/17470VwWXaP90eobg_6OKVnWbSWpGhtqT) |  | |  |
-| 10-1 | 뉴럴네트워크 | [강의자료](https://www.dropbox.com/s/jyv34y8tg2c6zco/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-11%EC%9D%BC%EC%B0%A8.pptx?dl=0) |  | | [데이터로 변화하는 세상](https://youtu.be/NFt1MbChFMU)|
-| 10-2 | 뉴럴네트워크 | [실습1](https://colab.research.google.com/drive/1yTW8cAh3Y0H-Gzq-CQWcc2B9R9gfN91a), [실습2](https://colab.research.google.com/drive/1GnJ3nTctIEwswDPBis23bR-kI8NnPwRd), <br> [실습3-텐서보드](https://colab.research.google.com/drive/1dmzlKPwsTbdvhD0Vpav8vpfJ2e3ARK2T)  |    | | |
+| 7 | Colab, Pandas, Kaggle  |  |  | Tools for AI | [인공지능시대 리더상](https://youtu.be/jSRiq9VBlt8) | 
+| 과제 |  배추값 예측 하기  | [문제](https://github.com/sejongresearch/2020.Spring.AI/blob/master/HW/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_%E1%84%89%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1_%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.pdf) | 2020.04.26 |  |  | 
+| 과제 |  당뇨병 환자 분류하기  | [문제](https://github.com/sejongresearch/2020.Spring.AI/blob/master/HW/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_%E1%84%89%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2_%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.pdf) | 2020.04.26 |  |  | 
+| 8 | 중간고사 |   |    | 이론+실습 ||
+| 9 | 뉴럴네트워크 | [강의자료](https://www.dropbox.com/s/umw3xfyw5rkumgr/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_10%EC%9D%BC%EC%B0%A8.pdf?dl=0) |  | | [인공지능과 마케팅](https://youtu.be/vXTaU0SPBOM)|
+| 9 | 뉴럴네트워크 | [실습자료](https://colab.research.google.com/drive/17470VwWXaP90eobg_6OKVnWbSWpGhtqT) |  | |  |
+| 10 | 뉴럴네트워크 | [강의자료](https://www.dropbox.com/s/jyv34y8tg2c6zco/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-11%EC%9D%BC%EC%B0%A8.pptx?dl=0) |  | | [데이터로 변화하는 세상](https://youtu.be/NFt1MbChFMU)|
+| 10 | 뉴럴네트워크 | [실습1](https://colab.research.google.com/drive/1yTW8cAh3Y0H-Gzq-CQWcc2B9R9gfN91a), [실습2](https://colab.research.google.com/drive/1GnJ3nTctIEwswDPBis23bR-kI8NnPwRd), <br> [실습3-텐서보드](https://colab.research.google.com/drive/1dmzlKPwsTbdvhD0Vpav8vpfJ2e3ARK2T)  |    | | |
 | 과제 |  MNIST 분류하기  |  |  |  |  | 
-| 11-1 | CNN | [강의자료](https://www.dropbox.com/s/pupfxear9ngiw3x/9%EC%A3%BC%EC%B0%A8_%EC%97%85%EB%A1%9C%EB%93%9C.pdf?dl=0)  |    |  ||
-| 11-2 | CNN | [실습1](https://colab.research.google.com/drive/1Tc6maMHoCPqQcZo57D39va4WCJVTFLMs) |   | ||
+| 11 | CNN | [강의자료](https://www.dropbox.com/s/pupfxear9ngiw3x/9%EC%A3%BC%EC%B0%A8_%EC%97%85%EB%A1%9C%EB%93%9C.pdf?dl=0)  |    |  ||
+| 11 | CNN | [실습1](https://colab.research.google.com/drive/1Tc6maMHoCPqQcZo57D39va4WCJVTFLMs) |   | ||
 | 12 | CNN | [실습2](https://colab.research.google.com/drive/1zZSHTT0dpzJnwBuyhpVbG85EW1Yj0mGS), [실습3](https://colab.research.google.com/drive/18JoQn37k6YlrTECNxO3Jn3cvGkYLEMub)   |   |  ||
 | 과제 |  MNIST 분류하기  |  |  |  |  | 
-| 13-1 | RNN | [강의자료](https://www.dropbox.com/s/ft956zib0xo2cfq/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_RNN.pdf?dl=0)  |  | ||
-| 13-2 | RNN | [문제](https://www.dropbox.com/s/sxf9pna16toehql/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_RNN_%EC%8B%A4%EC%8A%B5.pdf?dl=0), [실습1](https://colab.research.google.com/drive/1VzPOSsLF7gzEjqWHD2aDXmTP9pRdBmfi), [실습2](https://colab.research.google.com/drive/1QVCTX5cfxLvVXKX3pCMTqXz-y661q61U)  |    | ||
+| 13 | RNN | [강의자료](https://www.dropbox.com/s/ft956zib0xo2cfq/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_RNN.pdf?dl=0)  |  | ||
+| 13 | RNN | [문제](https://www.dropbox.com/s/sxf9pna16toehql/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_RNN_%EC%8B%A4%EC%8A%B5.pdf?dl=0), [실습1](https://colab.research.google.com/drive/1VzPOSsLF7gzEjqWHD2aDXmTP9pRdBmfi), [실습2](https://colab.research.google.com/drive/1QVCTX5cfxLvVXKX3pCMTqXz-y661q61U)  |    | ||
 | 14 | RNN  | [실습1](https://colab.research.google.com/drive/12QyxmMif45dpJCIatRsW-t_cjuaj3NVj), [실습1답](https://colab.research.google.com/drive/1RpC1Lt23AqJyrLwwC8oTvNjKfYMHfMk3) |  |  ||
 | 과제 |  목소리 분류하기  |  |  |  |  | 
 | 15 | 기말고사 |   |    |  ||
