@@ -32,7 +32,7 @@
 | 6 | 선형 분류 | [실습1](https://colab.research.google.com/drive/1-sb83pb1nKPOBrRCCPJfwyjFbK1TgfWs), [실습2](https://colab.research.google.com/drive/1YBiNPvZ_aPNH4QQwtN2N1DDPSY9POUht) |  | |  |
 | 7 | Colab, Pandas, Kaggle  |  |  | Tools for AI | [인공지능시대 리더상](https://youtu.be/jSRiq9VBlt8) | 
 | 과제 |  배추값 예측 하기  | [문제](https://github.com/sejongresearch/2020.Spring.AI/blob/master/HW/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_%E1%84%89%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1_%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.pdf) | 2020.04.26 |  |  | 
-| 과제 |  당뇨병 환자 분류하기  | [문제](https://github.com/sejongresearch/2020.Spring.AI/blob/master/HW/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_%E1%84%89%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2_%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.pdf) | 2020.04.26 |  |  | 
+| 과제 |  동물 분류하기  | [문제](https://github.com/sejongresearch/2020.Spring.AI/blob/master/HW/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_%E1%84%89%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2_%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.pdf) | 2020.04.26 |  |  | 
 | 8 | 중간고사 |   |    | 이론+실습 ||
 | 9 | 뉴럴네트워크 | [강의자료](https://www.dropbox.com/s/umw3xfyw5rkumgr/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_10%EC%9D%BC%EC%B0%A8.pdf?dl=0) |  | | [인공지능과 마케팅](https://youtu.be/vXTaU0SPBOM)|
 | 9 | 뉴럴네트워크 | [실습자료](https://colab.research.google.com/drive/17470VwWXaP90eobg_6OKVnWbSWpGhtqT) |  | |  |
