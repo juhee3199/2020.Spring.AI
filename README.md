@@ -33,7 +33,7 @@
 | 과제 |  배추값 예측 하기  | [문제](https://github.com/sejongresearch/2020.Spring.AI/blob/master/HW/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_%E1%84%89%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1_%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.pdf), [해설](https://commons.sejong.ac.kr/em/5ea5a6b17a94c) | 2020.04.26 |  |  | 
 | 과제 |  동물 분류하기  | [문제](https://github.com/sejongresearch/2020.Spring.AI/blob/master/HW/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_%E1%84%89%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2_%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.pdf), [해설]() | 2020.04.26 |  |  | 
 | 7 | Colab, Pandas, <br> Kaggle  | [실습1](https://commons.sejong.ac.kr/em/5e9ad4b325601), [실습2](https://commons.sejong.ac.kr/em/5ea5a19bb6bab), [실습3](https://commons.sejong.ac.kr/em/5ea5a6587f991)  |  | Tools for AI | [인공지능시대 리더상](https://youtu.be/jSRiq9VBlt8) | 
-| 과제 | 나도 이제 캐글러 |  [캐글1](https://www.kaggle.com/c/regression-cabbage-price), [캐글2](https://www.kaggle.com/c/classification-animal-classification), [캐글3]()  |  2020.05.03  |  ||
+| 과제 | 나도 이제 캐글러 |  [캐글1](https://www.kaggle.com/c/regression-cabbage-price), [캐글2](https://www.kaggle.com/c/classification-animal-classification), [캐글3](https://www.kaggle.com/c/logistic-classification-diabetes/data)  |  2020.05.03  |  ||
 | 8 | 중간고사 |   |    | 이론+실습 ||
 | 9 | 뉴럴네트워크 | [강의자료](https://www.dropbox.com/s/umw3xfyw5rkumgr/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_10%EC%9D%BC%EC%B0%A8.pdf?dl=0) |  | | [인공지능과 마케팅](https://youtu.be/vXTaU0SPBOM)|
 | 9 | 뉴럴네트워크 | [실습자료](https://colab.research.google.com/drive/17470VwWXaP90eobg_6OKVnWbSWpGhtqT) |  | |  |
