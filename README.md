@@ -36,11 +36,8 @@
 | 7 | Colab, Pandas, <br> Kaggle  | [실습1](https://commons.sejong.ac.kr/em/5e9ad4b325601), [실습2](https://commons.sejong.ac.kr/em/5ea5a19bb6bab), [실습3](https://commons.sejong.ac.kr/em/5ea5a6587f991)  |  | Tools for AI | [인공지능시대 리더상](https://youtu.be/jSRiq9VBlt8) | 
 | 과제 | 나도 이제 캐글러 |  [캐글1](https://www.kaggle.com/c/regression-cabbage-price), [캐글2](https://www.kaggle.com/c/classification-animal-classification), [캐글3](https://www.kaggle.com/c/logistic-classification-diabetes/data)  |  2020.05.03  |  ||
 | 8 | 중간고사 | [실습시험](https://github.com/sejongresearch/2020.Spring.AI/issues/5)  | 2020.05.06 | 이론+실습(캐글) ||
-| 9 | 뉴럴네트워크 | [강의자료](https://www.dropbox.com/s/umw3xfyw5rkumgr/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_10%EC%9D%BC%EC%B0%A8.pdf?dl=0) |  | | [인공지능과 마케팅](https://youtu.be/vXTaU0SPBOM)|
-| 9 | 뉴럴네트워크 | [실습자료](https://colab.research.google.com/drive/17470VwWXaP90eobg_6OKVnWbSWpGhtqT) |  | |  |
-| 10 | 뉴럴네트워크 | [강의자료](https://www.dropbox.com/s/jyv34y8tg2c6zco/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-11%EC%9D%BC%EC%B0%A8.pptx?dl=0) |  | | [데이터로 변화하는 세상](https://youtu.be/NFt1MbChFMU)|
-| 10 | 뉴럴네트워크 | [실습1](https://colab.research.google.com/drive/1yTW8cAh3Y0H-Gzq-CQWcc2B9R9gfN91a), [실습2](https://colab.research.google.com/drive/1GnJ3nTctIEwswDPBis23bR-kI8NnPwRd), <br> [실습3-텐서보드](https://colab.research.google.com/drive/1dmzlKPwsTbdvhD0Vpav8vpfJ2e3ARK2T)  |    | | |
-| 과제 |  MNIST 분류하기  |  |  |  |  | 
+| 9 | 중간고사 다시 풀기 |  |  | | [인공지능과 마케팅](https://youtu.be/vXTaU0SPBOM)|
+| 10 | 뉴럴네트워크 |  |  | | [데이터로 변화하는 세상](https://youtu.be/NFt1MbChFMU)|
 | 11 | CNN | [강의자료](https://www.dropbox.com/s/pupfxear9ngiw3x/9%EC%A3%BC%EC%B0%A8_%EC%97%85%EB%A1%9C%EB%93%9C.pdf?dl=0)  |    |  ||
 | 11 | CNN | [실습1](https://colab.research.google.com/drive/1Tc6maMHoCPqQcZo57D39va4WCJVTFLMs) |   | ||
 | 12 | CNN | [실습2](https://colab.research.google.com/drive/1zZSHTT0dpzJnwBuyhpVbG85EW1Yj0mGS), [실습3](https://colab.research.google.com/drive/18JoQn37k6YlrTECNxO3Jn3cvGkYLEMub)   |   |  ||
