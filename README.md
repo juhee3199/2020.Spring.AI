@@ -38,8 +38,9 @@
 | 8 | 중간고사 | [실습시험](https://github.com/sejongresearch/2020.Spring.AI/issues/5)  | 2020.05.06 | 이론+실습(캐글) ||
 | 9 | 중간고사 다시 풀기 |  |  | | [인공지능과 마케팅](https://youtu.be/vXTaU0SPBOM)|
 | 10 | 뉴럴네트워크 |  |  | | [데이터로 변화하는 세상](https://youtu.be/NFt1MbChFMU)|
-| 11 | CNN | [강의자료](https://www.dropbox.com/s/pupfxear9ngiw3x/9%EC%A3%BC%EC%B0%A8_%EC%97%85%EB%A1%9C%EB%93%9C.pdf?dl=0)  |    |  ||
-| 11 | CNN | [실습1](https://colab.research.google.com/drive/1Tc6maMHoCPqQcZo57D39va4WCJVTFLMs) |   | ||
+| 11 | 뉴럴네트워크 | [강의자료](https://github.com/sejongresearch/2020.Spring.AI/blob/master/LectureNote/11%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_NN.pptx) |  | | [데이터로 변화하는 세상](https://youtu.be/NFt1MbChFMU)|
+| 12 | CNN | [강의자료](https://www.dropbox.com/s/pupfxear9ngiw3x/9%EC%A3%BC%EC%B0%A8_%EC%97%85%EB%A1%9C%EB%93%9C.pdf?dl=0)  |    |  ||
+| 12 | CNN | [실습1](https://colab.research.google.com/drive/1Tc6maMHoCPqQcZo57D39va4WCJVTFLMs) |   | ||
 | 12 | CNN | [실습2](https://colab.research.google.com/drive/1zZSHTT0dpzJnwBuyhpVbG85EW1Yj0mGS), [실습3](https://colab.research.google.com/drive/18JoQn37k6YlrTECNxO3Jn3cvGkYLEMub)   |   |  ||
 | 과제 |  MNIST 분류하기  |  |  |  |  | 
 | 13 | RNN | [강의자료](https://www.dropbox.com/s/ft956zib0xo2cfq/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_RNN.pdf?dl=0)  |  | ||
