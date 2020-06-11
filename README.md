@@ -40,9 +40,9 @@
 | 10 | NN | [강의자료](https://github.com/sejongresearch/2020.Spring.AI/blob/master/LectureNote/10%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_NN.pptx) | 2020.05.24 | | [데이터로 변화하는 세상](https://youtu.be/NFt1MbChFMU)|
 | 11 | NN | [강의자료](https://github.com/sejongresearch/2020.Spring.AI/blob/master/LectureNote/11%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_NN.pptx), [실습1](https://colab.research.google.com/drive/1-jra-eezGMj2MuuSHbYiGRA-bl1GsNPD) <br> [실습2](https://colab.research.google.com/drive/11Q8sIPbN44NDVXSP0NhHN9k7EbCue8uH), [실습3](https://colab.research.google.com/drive/1fTe2uFD7MPB5jQWuISxDphHWXaLRaCm9) | 2020.05.31 | | [데이터로 변화하는 세상](https://youtu.be/NFt1MbChFMU)|
 | 12 | DNN | [강의자료](https://github.com/sejongresearch/2020.Spring.AI/blob/master/LectureNote/12%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1-%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC-NN.pdf) | |||
-| 13 | CNN | [강의자료](https://github.com/sejongresearch/2020.Spring.AI/blob/master/LectureNote/2020.%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_13%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1.pdf)  |    |  ||
-| 13 | CNN | [실습1](https://colab.research.google.com/drive/1Tc6maMHoCPqQcZo57D39va4WCJVTFLMs) |   | ||
-| 13 | CNN | [실습2](https://colab.research.google.com/drive/1zZSHTT0dpzJnwBuyhpVbG85EW1Yj0mGS), [실습3](https://colab.research.google.com/drive/18JoQn37k6YlrTECNxO3Jn3cvGkYLEMub)   |   |  ||
+| 13 | CNN | [강의자료](https://github.com/sejongresearch/2020.Spring.AI/blob/master/LectureNote/2020.%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_13%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1.pdf)  |  2020.06.09  |  ||
+| 13 | CNN | [실습1]() |   | ||
+| 13 | CNN | [실습2](), [실습3]()   |   |  ||
 | 과제 |  MNIST 분류하기  |  |  |  |  | 
 | 14 | RNN | [강의자료](https://www.dropbox.com/s/ft956zib0xo2cfq/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_RNN.pdf?dl=0)  |  | ||
 | 14 | RNN | [문제](https://www.dropbox.com/s/sxf9pna16toehql/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_RNN_%EC%8B%A4%EC%8A%B5.pdf?dl=0), [실습1](https://colab.research.google.com/drive/1VzPOSsLF7gzEjqWHD2aDXmTP9pRdBmfi), [실습2](https://colab.research.google.com/drive/1QVCTX5cfxLvVXKX3pCMTqXz-y661q61U)  |    | ||
