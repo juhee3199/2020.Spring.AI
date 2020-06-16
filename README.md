@@ -11,7 +11,8 @@
 - [이수증 제출 마감] 3/29, 조교이메일
 - [강의] [모두를위한프로그램: 파이썬](https://www.edwith.org/pythonforeverybody), [파이썬 자료구조](https://www.edwith.org/python-data/)
 
-
+## 추천 도서
+- [Pytorch로시작하는딥러닝](https://wikidocs.net/60036)
  
 
 
