@@ -43,9 +43,8 @@
 | 12 | DNN | [강의자료](https://github.com/sejongresearch/2020.Spring.AI/blob/master/LectureNote/12%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1-%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC-NN.pdf) | |||
 | 13 | CNN | [강의자료](https://github.com/sejongresearch/2020.Spring.AI/blob/master/LectureNote/2020.%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_13%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1.pdf)  |  2020.06.09  |  ||
 | 14 | CNN | [실습1](https://colab.research.google.com/drive/12Kcx-wTr0PMF82eCGGtPDzGPlwtX-DKF?usp=sharing), [실습2](https://colab.research.google.com/drive/13rNXo-OqmIl95tl2Iec76SgWahfy3jZ9?usp=sharing) | 2020.06.16  | ||
-| 15 | RNN | [강의자료](https://www.dropbox.com/s/ft956zib0xo2cfq/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_RNN.pdf?dl=0)  |  | ||
-| 14 | RNN | [문제](https://www.dropbox.com/s/sxf9pna16toehql/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_RNN_%EC%8B%A4%EC%8A%B5.pdf?dl=0), [실습1](https://colab.research.google.com/drive/1VzPOSsLF7gzEjqWHD2aDXmTP9pRdBmfi), [실습2](https://colab.research.google.com/drive/1QVCTX5cfxLvVXKX3pCMTqXz-y661q61U)  |    | ||
-| 15 | RNN  | [실습1](https://colab.research.google.com/drive/12QyxmMif45dpJCIatRsW-t_cjuaj3NVj), [실습1답](https://colab.research.google.com/drive/1RpC1Lt23AqJyrLwwC8oTvNjKfYMHfMk3) |  |  ||
+| 15 | CNN II | [강의자료](https://www.dropbox.com/s/ft956zib0xo2cfq/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_RNN.pdf?dl=0)  | 2020.06.22 | ||
+| 15 | CNN | [실습1](https://colab.research.google.com/drive/1ufVXTVUMldHHrPo0-a7dTbNHlrHIz8ll?usp=sharing), [실습2](https://colab.research.google.com/drive/1OOjVGe6GoIc02dj0KZwVtqTcxcl4hoB9?usp=sharing) <br> [실습3](https://colab.research.google.com/drive/131dTgKPHO7Jzlbq08dRM3LwaYcTsCG5X?usp=sharing), [실습4](https://colab.research.google.com/drive/1zyDIZ4SytI1d_dkleKEd_Ik8QIl--Yd5?usp=sharing)  |    | ||
 | 16 | 기말고사 |   |  2020.06.29  |  ||
 | 16 | 텀프로젝트 마감 |   |  2020.06.28  |  ||
 
